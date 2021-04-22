@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-refresh",
+  "version": "1.0.0",
+  "description": "NodeJS Lab",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L3p1989/NodeJS-Refresh.git"
+  },
+  "author": "Patrick Hogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L3p1989/NodeJS-Refresh/issues"
+  },
+  "homepage": "https://github.com/L3p1989/NodeJS-Refresh#readme"
+}
