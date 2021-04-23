@@ -17,7 +17,7 @@
 
 1. Install `request-promise` from npm and save it to your package.json file.
 2. Create a JavaScript file in the root of your project called `reddit.js`.
-3. Use request-promise to retreive articles from https://reddit.com/r/popular.json.
+3. Use request-promise to retrieve articles from https://reddit.com/r/popular.json.
 4. Extract from each article title, url, and author
 
 - Push each extracted article to an array.
