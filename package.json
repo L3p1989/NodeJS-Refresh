@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/L3p1989/NodeJS-Refresh#readme",
   "dependencies": {
+    "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }
 }
