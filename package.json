@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/L3p1989/NodeJS-Refresh/issues"
   },
-  "homepage": "https://github.com/L3p1989/NodeJS-Refresh#readme"
+  "homepage": "https://github.com/L3p1989/NodeJS-Refresh#readme",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
 }
