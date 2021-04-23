@@ -10,7 +10,12 @@ let chirps = [
 ];
 
 const data = JSON.stringify(chirps);
-fs.writeFileSync("chirps.json", data);
+
+try {
+  fs.writeFileSync("chirps.json", data);
+} catch {
+  console.log(e);
+}
 
 try {
   const rawChirps = fs.readFileSync("chirps.json");
